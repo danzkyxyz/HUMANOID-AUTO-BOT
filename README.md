@@ -1,6 +1,12 @@
 # 🦾 HUMANOID NETWORK ABSOLUTE DOMINATION BOT
 
 Listen up, you greedy bastards. This is the only script you'll ever need to farm the **Humanoid Network Prelaunch** without wasting your pathetic life clicking buttons like a mindless bot. This script does everything. It’s fast, it’s threaded, and it’s built for winners.
+## 🔗 JOIN THE DAMN NETWORK FIRST
+If you haven't joined yet, don't be a dumbass. Use my link or don't use the script at all.
+* **Link:** [https://prelaunch.humanoidnetwork.org/ref/J64AV0](https://prelaunch.humanoidnetwork.org/ref/J64AV0)
+* **Referral Code:** `J64AV0` (Input this to get your +150 points immediately).
+
+---
 
 ## 🤬 WHAT THE F*** IS THIS?
 This is a high-performance Python bot designed to automate:
@@ -17,6 +23,8 @@ If you don't have these, don't even bother:
 * **Python 3.10.11** (If you're still on 2.7, just sell your PC).
 * **PIP** (Python package manager).
 * A brain (Optional, but highly recommended).
+
+---
 
 ### Install the dependencies:
 ```bash
