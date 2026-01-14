@@ -29,4 +29,4 @@ If you don't have these, don't even bother:
 ### Install the dependencies:
 ```bash
 pip install requests web3==7.12.0 eth-account pytz
-```bash
+
